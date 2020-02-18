@@ -1,0 +1,20 @@
+{
+  "name": "@padejar/tslint-test",
+  "version": "1.0.0",
+  "description": "Some TSLint rules that are great!",
+  "main": "tslint-base.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wave Consulting",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitub.com/padejar/tslint-test.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "tslint"
+  ]
+}
